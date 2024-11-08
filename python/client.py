@@ -1,3 +1,8 @@
+'''
+Source:
+https://pandeyshikha075.medium.com/building-a-chat-server-and-client-in-python-with-socket-programming-c76de52cc1d5
+'''
+
 import socket
 import threading
 
